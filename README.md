@@ -1,9 +1,3 @@
-# ico-fund-prototype
-
-![](https://travis-ci.org/mixbytes/icoplate-fund-prototype.svg?branch=master)
-
-Prototype of ICO fund governed by the investors
-
 Install dependencies:
 ```bash
 npm install
